@@ -1,0 +1,38 @@
+.article-title {
+  text-align: center;
+}
+
+.article-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  text-align: center;
+}
+
+.prose {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.flex.justify-between.pt-3 {
+  justify-content: center;
+  gap: 2rem;
+}
+
+article footer .pt-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+article footer hr {
+	width: 100%;
+	
+}

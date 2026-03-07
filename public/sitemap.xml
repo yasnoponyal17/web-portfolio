@@ -3,20 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/web-portfolio/posts/first/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/web-portfolio/</loc>
     <lastmod>2026-02-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/web-portfolio/posts/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/web-portfolio/disciplines/computer-workshop/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/web-portfolio/disciplines/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,17 +1,16 @@
 ---
-title: 'Hugo Web Portfolio'
+title: ''
 date: 2026-02-19
 draft: false
 ---
 
-### Всем охаё, тут настоящий свэг, всё чуитс, детка? Оуууу ееее нормисам вход запрещен!
 
-{{< button href="disciplines/computer-workshop/" target="_self" >}}
-Компьютерный практикум
-{{< /button >}}
-{{< button href="disciplines/programming/" target="_self" >}}
-Программирование
-{{< /button >}}
+# Ефимов Сергей
+**Группа:** ИВТ-2
+
+* ### [💻 Компьютерный практикум](disciplines/computer-workshop/)
+* ### [🛠️ Программирование](disciplines/programming/)
+
 
 
 
